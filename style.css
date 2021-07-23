@@ -11,3 +11,10 @@
     list-style: none;
 }
 a{text-decoration: none;font-size: larger;}
+.heading{
+    width: 100%;
+    background-color: yellowgreen;
+    color: tomato;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px 0px 10px 0px;
+}
