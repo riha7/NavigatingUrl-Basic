@@ -1,0 +1,13 @@
+.container{
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+.row ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+}
+a{text-decoration: none;font-size: larger;}
